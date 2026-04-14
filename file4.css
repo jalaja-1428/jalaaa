@@ -1,0 +1,30 @@
+.one{
+    margin:10px;
+    padding:30px;
+    background-color: red;
+}
+.two{
+    margin:0px 15px 15px 15px;
+    padding:10px 5px 2px 8px;
+    background-color:aqua;
+}
+.parent{
+    display:flex;
+    justify-content:space-evenly;
+    align-items: center;
+    
+
+
+
+}
+    div{
+ background-color: red;
+    height: 100px;
+    width:100px;
+    }
+span{
+    background-color:green;
+    margin:10px 10px 10px 10px;
+    padding:20px 20px 20px 20px;
+
+}
